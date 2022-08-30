@@ -16,7 +16,7 @@ subtitle: ''
 runningheader: IHFILM-260-01 Introduction to Film Analysis
 link-citations: yes
 ---
-![](img/14-1.jpg){width=50%}  
+![](img/14-1.jpg){width=400px}  
 
 ### IHFILM-260-01 Introduction to Film Analysis
 

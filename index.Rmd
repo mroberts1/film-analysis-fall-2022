@@ -27,7 +27,6 @@ Dr. Martin Roberts
 Office hours: Thursday 4:00-6:00 p.m.  
 Office location: TBA  
 Email: [martin.roberts@keene.edu](mailto:martin.roberts@keene.edu)  
-[Github repository](https://github.com/mroberts1/film-analysis-fall-2022) | [Online syllabus](https://mroberts1.github.io/film-analysis-fall-2022)  
 
 ***  
 
@@ -269,55 +268,7 @@ Exam period (Tues-Fri 12/13-16)
 
 ***
 
-**Assignments**
-
-1.   **Reading responses and discussion leading (10% x 2 = 20%):**
-Each week, a group of 4 students will post on Canvas a short introduction to the reading or viewing assignment for the upcoming class) by the end of the day on Wednesday prior to the Thursday class meeting. These responses should be thoughtfully-written short essays (500 words) that briefly summarize main ideas from the reading and present students’ own thoughts on them. They may raise further questions which could be discussed in class. It is also recommended that students minimize plot-summary in order to create room for discussing their own thoughts, that students avoid personal reaction to the reading, as well as direct quotes from the texts, and that students bring in their own examples from movies and other media texts that would further illustrate students' own points.
-
-Once these 4 essays are posted on Canvas, other students are required to read the essays after they have finished reading the assigned texts, prior to the class meeting.
-
-In the following class meeting, those 4 students who posted their reading responses are responsible to lead the in-class discussion of the readings. This could be done either formally or informally, either individually or as a group, depending on the group members’ preferences. At the same time, it is highly recommended that the students in charge of discussion leading bring in additional materials (film, video, images, etc.) to share in order to further animate our conversation.
-
-Each student submits reading responses and leads discussions 2 times during the semester.
-
-Grades are individual and based on evaluation of students’ essays and performance in class.
-
-2.  **Viewing responses (5% x 4= 20%)**
-
-It’s important to develop and articulate your critical ideas about films as you watch and study. Each student is required to submit at least 4 viewing responses during the semester. It is your responsibility to choose films to write about, submit papers properly (typed hard copies delivered in class), and keep track of their own schedule and progress.
-
-How to write viewing responses
-After carefully watching a film screened in class and taking notes, write a short essay (Min, 500 words- Max. 750 words) that includes your thoughtful responses to the film. Your essay needs to include 1) the title of the film & filmmaker’s name; 2) a very brief synopsis (plot summary) no longer than 2-3 sentences; 3) your answers to some of the following questions:
-
--   > What are thematic ideas dealt with in the film? In other words, what is the film trying to say? What are the main ideas the film conveys?
-    
--   What do you understand the context of film’s production and its original release to be? In what historical, political, social/economic, national/transnational and cultural contexts was the film made? How are they similar or different from your own situation?
-    
--   What form does the film choose to convey such meanings? What stylistic choices does the filmmaker make? In other words, what is the film like (what does it look like, sound like, feel like)? How is the story told? How is the film visually constructed? Any formal design that seems unusual or interesting to you? Do you think the style the film uses is effective in telling the story and convey its thematic ideas?
-    
--   How does this film connect to any of the articles we’ve read this week? Or how does it connect to any other articles we read in the previous weeks?
-    
--   How does the film relate to you? What aspect of your life and your world does the film make you think about, question, or better understand?
-    
--   Have you watched any other films that are similar or related to this film? How is this film similar to and/or different from those films you’ve seen before?
-    
-Post a copy of your essay on Canvas under “Discussion” as you complete the essay, no later than the Wednesday night prior to class meeting (9PM). This allows enough time for all of us to read each other’s viewing responses before we come to the next class. Since we usually begin our class meeting with a discussion of the film we watched in the previous week, this is a good way of refreshing our memory as well as getting to know our colleagues’ thoughts and works.
-
-3.  **Midterm (Take-home exam)**
-This is an exam you write at home in a short essay format. It is not a research paper, so don’t perform any additional research, but in order to answer the questions properly, you will need to reference one or more of the readings you did for the course. Questions will be distributed in Week 6 and you will submit your written-essay (typed and as a print copy) (20% each). The exam essay will be around 4-5 pages in length.
-
-4.  **Final research paper**
-As we survey various topics related to digital cinema, there must be certain subfield or group of ideas that interest you more than others. That’s why you choose your own research paper topic for the course. Be mindful of this and pay attention to which topics interest you. You are encouraged to use any of the short assignments you write for the course as a basis for developing your final research paper. For example, you could combine any number of your reading responses, viewing responses, and midterm essays if they are related productively and add research to further develop your final paper.
-
-Shortly after Spring Break, I will schedule individual meetings in order to discuss your progress by then as well as brainstorm ideas for your final paper. By Week 11, you will be required to submit a written proposal and annotated bibliography. Especially in order to compose an annotated bibliography, you need to not only gather research materials (which may take some time) but also work through the materials. Plan ahead and assign enough time for this step.
-
-At our last class meeting, you will present your final research. It will be a presentation that share your ideas with other class members in order to get feedback as it is another critical step in writing your final paper. Your performance during your presentation won’t be graded, but if you fail to participate it will affect your final grade.
-
-Further guidelines for all the assignments and rubrics will be posted shortly on Canvas under Assignments.
-
-----------
-
-### Policies and protocol
+### Policies & Protocol
 
 **Attendance**
 Since this class meets only weekly, attendance is particularly important. Students are allowed one absence per semester. Two absences will lower your final grade half a letter grade. Three absences will lower your grade a whole letter grade. Any more than **three absences**, regardless of the reason, and students will have to withdraw from the course (in accordance with Keene State College student handbook). Come and talk to me if you have any problem in attending the class.
@@ -326,25 +277,18 @@ Keene State policy: A student who misses more than 3 weeks in the first 10 weeks
 
 ----------
 
-### Readings and assignments
+### Readings & assignments
 Readings assigned for each week should be completed **prior to** the class meeting. Assignments are due at the beginning of the class unless stated otherwise. **Please do not email submissions.**
 
 ----------
 
-### Discussion and participation
+### Discussion & participation
 Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared—both intellectually and physically. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure your full participation and engagement in class, the use of laptops and/or mobile devices during lectures, discussion, and screenings is not permitted.  
-
-----------
-
-### Viewing films
-Viewing films in class collectively is an important part of film education. For this reason, you are expected to pay close attention and take notes during viewing. No eating, checking texts or email, or any other kind of multi-tasking is permitted.
-
-----------
-
-### Technology problems
-We rely heavily on computer technology in completing our course work. Keep in mind that technologies can fail, especially when you have an upcoming deadline. Be prepared for possible technical problems and save your files in multiple locations.  
 
 ----------
 
 ### Academic honesty
 We understand and agree that we are participating in higher education. We respect this process and will act as mature and responsible individuals in it. To ensure that, all students are expected to hand in original written work. Using other people’s words without proper attribution constitutes plagiarism. Plagiarism and any other forms of cheating will result in an F for the assignment and may include further College sanctions. In this class, every student must be aware of and adhere to the college’s policy on academic honesty. Detailed procedures and processes pertaining to the Policy on Academic Honesty can be viewed at [http://www.keene.edu/policy/academichonesty.cfm (Links to an external site.)Links to an external site.](http://www.keene.edu/policy/academichonesty.cfm)
+
+***
+

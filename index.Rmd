@@ -16,10 +16,8 @@ subtitle: ''
 runningheader: IHFILM-260-01 Introduction to Film Analysis
 link-citations: yes
 ---
-![](img/14-1.jpg){width=400px}  
-
 ### IHFILM-260-01 Introduction to Film Analysis
-
+![](img/14-1.jpg){width=70%}    
 Fall Semester 2022  
 4 credits  
 Tuesday 10:00 a.m.-1:30 p.m.  
@@ -30,7 +28,6 @@ Office location: TBA
 Email: [martin.roberts@keene.edu](mailto:martin.roberts@keene.edu)  
 
 ***  
-
 
 ### Description
 This course is designed to equip students with the tools necessary to become critically aware and capable film viewers by introducing elements of film form, processes of textual analysis, a variety of cinematic techniques used in narrative and non-narrative cinema, and other models of critical analysis used in film criticism.

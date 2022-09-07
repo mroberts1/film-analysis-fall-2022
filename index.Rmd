@@ -2,16 +2,16 @@
 title: ''
 author: "Martin Roberts"
 date: "`r Sys.Date()`"
-fontfamily: accanthis
+mainfont: "Noto Sans"
 output:
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: pdflatex
   tufte::tufte_html:
     css: my_style.css
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: lualatex
   tufte::tufte_book:
     citation_package: natbib
-    latex_engine: pdflatex
+    latex_engine: lualatex
   word_document: null
 subtitle: ''
 runningheader: IHFILM-260-01 Introduction to Film Analysis
@@ -27,6 +27,10 @@ Dr. Martin Roberts
 Office hours: Thursday 4:00-6:00 p.m.  
 Office location: TBA  
 Email: [martin.roberts@keene.edu](mailto:martin.roberts@keene.edu)  
+
+***
+
+[Github Repository](https://github.com/mroberts1/film-analysis-fall-2022) | [Web syllabus](https://mroberts1.github.io/film-analysis-fall-2022)  
 
 ***  
 

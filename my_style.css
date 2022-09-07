@@ -12,7 +12,7 @@ h1,h2,h3 {
 }
 
 body {
-  font-family: "Raleway", "Proxima Nova", sans-serif;
+  font-family: "Noto Sans", "Proxima Nova", sans-serif;
   font-size: 1em;
   
 }
@@ -22,8 +22,10 @@ h1 {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 1.6em;
   font-family: "Sanchez", sans-serif;
+  text-transform: uppercase;
+  color: #8B0000;
 }
 
 h3 {

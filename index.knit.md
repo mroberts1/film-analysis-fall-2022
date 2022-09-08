@@ -1,7 +1,7 @@
 ---
 title: ''
 author: "Martin Roberts"
-date: "2022-09-07"
+date: "2022-09-08"
 mainfont: "Noto Sans"
 output:
   tufte::tufte_html:
@@ -25,7 +25,7 @@ Tuesday 10:00 a.m.-1:30 p.m.
 Parker Hall - Drenan Auditorium  
 Dr. Martin Roberts  
 Office hours: Thursday 4:00-6:00 p.m.  
-Office location: TBA  
+Office location: Media Arts 124    
 Email: [martin.roberts@keene.edu](mailto:martin.roberts@keene.edu)  
 
 ***

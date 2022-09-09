@@ -2,7 +2,7 @@
 title: ''
 author: "Martin Roberts"
 date: "`r Sys.Date()`"
-mainfont: "Noto Sans"
+mainfont: "Roboto"
 output:
   tufte::tufte_html:
     css: my_style.css

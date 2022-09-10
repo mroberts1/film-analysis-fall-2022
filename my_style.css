@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 @import url("https://use.typekit.net/uds6lpa.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 @charset "UTF-8";
 
@@ -12,7 +13,7 @@ h1,h2,h3 {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 1em;
   
 }

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.8.30)  30 AUG 2022 19:14
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.9.19)  19 SEP 2022 13:29
  restricted system commands enabled.
 **index.tex
 (./index.tex
@@ -32,7 +32,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'. L3 programming layer <2022-08-23>
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'. L3 programming layer <2022-08-30>
 Inserting `tracingstacklevels' at position 1 in `input_level_string'. (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-handout.cls
 Document Class: tufte-handout 2015/06/21 v3.5.2 Tufte-handout class
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-common.def
@@ -116,9 +116,9 @@ luaotfload | db : Font names database loaded from /Users/dokoissho/Library/TinyT
 ) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 ) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-08-23 L3 programming layer (loader) 
+Package: expl3 2022-08-30 L3 programming layer (loader) 
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2022-08-23 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2022-08-30 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count198
 \l__pdf_internal_box=\box51
 ))
@@ -622,47 +622,47 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 )
 
-Package fontspec Info: NotoSans scale = 0.8747812079314438.
+Package fontspec Info: Inter scale = 0.8598315942596582.
 
 
-Package fontspec Info: NotoSans scale = 0.8747812079314438.
+Package fontspec Info: Inter scale = 0.8598315942596582.
+
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Inter/B scale = 0.8598315942596582.
 
 luaotfload | aux : font no 54 (nil) does not define feature smcp for script latn with language dflt
 
-Package fontspec Info: NotoSans/B scale = 0.8591322139640711.
+Package fontspec Info: Inter/I scale = 0.8598315942596582.
 
 luaotfload | aux : font no 55 (nil) does not define feature smcp for script latn with language dflt
 
-Package fontspec Info: NotoSans/I scale = 0.8747812079314438.
+Package fontspec Info: Inter/BI scale = 0.8598315942596582.
 
-luaotfload | aux : font no 56 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 55 (nil) does not define feature smcp for script latn with language dflt
 
-Package fontspec Info: NotoSans/BI scale = 0.8591322139640711.
-
-luaotfload | aux : font no 57 (nil) does not define feature smcp for script latn with language dflt
-
-Package fontspec Info: Font family 'NotoSans(0)' created for font 'Noto Sans'
-(fontspec)             with options
+Package fontspec Info: Font family 'Inter(0)' created for font 'Inter' with
+(fontspec)             options
 (fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Ligatures=TeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.8747812079314438]"NotoSans:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[0.8598315942596582]"Inter:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.8591322139640711]"NotoSans/B:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[0.8598315942596582]"Inter/B:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.8747812079314438]"NotoSans/I:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[0.8598315942596582]"Inter/I:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.8591322139640711]"NotoSans/BI:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             <->s*[0.8598315942596582]"Inter/BI:mode=node;script=latn;language=dflt;+tlig;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
-(Font)              scaled to size 8.74786pt on input line 24.
+LaTeX Font Info:    Font shape `TU/Inter(0)/m/n' will be
+(Font)              scaled to size 8.59833pt on input line 24.
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
@@ -798,10 +798,10 @@ Package grfext Info: Graphics extension search list:
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
-(Font)              scaled to size 10.49744pt on input line 81.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 10.49744pt on input line 81.
+LaTeX Font Info:    Font shape `TU/Inter(0)/m/n' will be
+(Font)              scaled to size 10.318pt on input line 81.
+LaTeX Font Info:    Font shape `TU/Inter(0)/m/it' will be
+(Font)              scaled to size 10.318pt on input line 81.
 <img/14-1.jpg, id=8, 770.88pt x 578.16pt>
 File: img/14-1.jpg Graphic file (type jpg)
 <use img/14-1.jpg>
@@ -839,48 +839,59 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.91925pt on input line 92.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 92.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/n' will be
-(Font)              scaled to size 9.5789pt on input line 97.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 9.5789pt on input line 97.
+
+Package hyperref Warning: Suppressing empty link on input line 94.
+
+
+Package hyperref Warning: Suppressing empty link on input line 101.
+
+LaTeX Font Info:    Font shape `TU/Inter(0)/m/n' will be
+(Font)              scaled to size 9.41516pt on input line 107.
+LaTeX Font Info:    Font shape `TU/Inter(0)/m/it' will be
+(Font)              scaled to size 9.41516pt on input line 107.
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 129.
+This message occurred on input line 135.
 
 [1{/Users/dokoissho/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 <./img/14-1.jpg>]
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/m/it' will be
-(Font)              scaled to size 8.74786pt on input line 139.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/it' will be
-(Font)              scaled to size 8.59131pt on input line 164.
-LaTeX Font Info:    Font shape `TU/NotoSans(0)/b/n' will be
-(Font)              scaled to size 8.59131pt on input line 188.
+LaTeX Font Info:    Font shape `TU/Inter(0)/m/it' will be
+(Font)              scaled to size 8.59833pt on input line 149.
+LaTeX Font Info:    Font shape `TU/Inter(0)/b/it' will be
+(Font)              scaled to size 8.59833pt on input line 174.
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 192.
+This message occurred on input line 198.
 
 [2]
+LaTeX Font Info:    Font shape `TU/Inter(0)/b/n' will be
+(Font)              scaled to size 8.59833pt on input line 198.
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 247.
+This message occurred on input line 250.
 
 [3]
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 309.
+This message occurred on input line 320.
 
 [4]
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 372.
+This message occurred on input line 397.
 
 [5]
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 430.
+This message occurred on input line 475.
 
 [6]
+
+Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
+This message occurred on input line 524.
+
+[7]
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
@@ -888,27 +899,27 @@ Package bibentry Warning: You have used \nobibliography*
 
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been set up.
-This message occurred on input line 453.
+This message occurred on input line 529.
 
-[7] (./index.aux)
+[8] (./index.aux)
 Package rerunfilecheck Info: File `index.out' has not changed.
 (rerunfilecheck)             Checksum: F8B9260DDB58632BCCA4AD779A957E38;271.
 )
 
 Here is how much of LuaTeX's memory you used:
- 16679 strings out of 477457
+ 16681 strings out of 477356
  100000,794899 words of node,token memory allocated
  724 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 9 attribute, 94 glue_spec, 9 attribute_list, 1 write, 3 pdf_action nodes
-   avail lists: 2:578,3:273,4:42,5:181,6:80,7:4889,8:53,9:323,10:12,11:365
- 36791 multiletter control sequences out of 65536+600000
- 120 fonts using 18610791 bytes
- 94i,12n,122p,298b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</Users/dokoissho/Library/Fonts/NotoSans-Bold.ttf></Users/dokoissho/Library/Fonts/NotoSans-BoldItalic.ttf></Users/dokoissho/Library/TinyTeX/texmf-dist/fonts/opentype/public/tex-gyre/texgyrecursor-regular.otf></Users/dokoissho/Library/Fonts/NotoSans-Italic.ttf></Users/dokoissho/Library/Fonts/NotoSans-Regular.ttf>
-Output written on index.pdf (7 pages, 251820 bytes).
+   avail lists: 2:548,3:278,4:41,5:527,6:91,7:5323,8:52,9:325,10:11,11:381
+ 36891 multiletter control sequences out of 65536+600000
+ 117 fonts using 16705103 bytes
+ 94i,12n,122p,298b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</Users/dokoissho/Library/Fonts/Inter-Bold.ttf></Users/dokoissho/Library/TinyTeX/texmf-dist/fonts/opentype/public/tex-gyre/texgyrecursor-regular.otf></Users/dokoissho/Library/Fonts/Inter-SemiBold.ttf></Users/dokoissho/Library/Fonts/Inter-VariableFont_slnt,wght.ttf>
+Output written on index.pdf (8 pages, 275000 bytes).
 
 PDF statistics: 126 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 37 named destinations out of 1000 (max. 131072)
+ 101 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 131072)
  9 words of extra memory for PDF output out of 10000 (max. 100000000)
 

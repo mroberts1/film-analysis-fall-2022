@@ -2,19 +2,18 @@
 title: ''
 author: "Martin Roberts"
 date: "`r Sys.Date()`"
-mainfont: "Inter"
 output:
   tufte::tufte_html:
     css: my_style.css
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: lualatex
   tufte::tufte_book:
     citation_package: natbib
     latex_engine: lualatex
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: lualatex
   word_document: null
-subtitle: ''
-runningheader: IHFILM-260-01 Introduction to Film Analysis
+  pdf_document: default
+mainfont: Inter
 link-citations: yes
 ---
 # IHFILM-260-01 Introduction to Film Analysis
@@ -23,31 +22,35 @@ Fall Semester 2022
 4 credits  
 Tuesday 10:00 a.m.-1:30 p.m.  
 Parker Hall - Drenan Auditorium  
-Dr. Martin Roberts  
+Dr. Martin Roberts  
 Office hours: Thursday 4:00-6:00 p.m.  
-Office location: Media Arts 124    
-Email: [martin.roberts@keene.edu](mailto:martin.roberts@keene.edu)  
+Office location: Media Arts 124  
+Email: [martin.roberts@keene.edu](mailto:martin.roberts@keene.edu)
 
-***
+[](mailto:martin.roberts@keene.edu)
 
-[Github Repository](https://github.com/mroberts1/film-analysis-fall-2022) | [Web syllabus](https://mroberts1.github.io/film-analysis-fall-2022)  
+---
 
-***  
+[Github repository](https://github.com/mroberts1/film-analysis-fall-2022) | [Web syllabus](https://mroberts1.github.io/film-analysis-fall-2022/)[](https://mroberts1.github.io/film-analysis-fall-2022/) (outside Canvas)
+
+---
 
 ## Description
+
 This course is designed to equip students with the tools necessary to become critically aware and capable film viewers by introducing elements of film form, processes of textual analysis, a variety of cinematic techniques used in narrative and non-narrative cinema, and other models of critical analysis used in film criticism.
 
-***  
+---
 
 ## Outcomes
+
 After completing the course, students should have acquired the following skills:
 
-- Ability to analyze technical/formal components of film narratives (shot composition, cinematography, editing, use of color, sound, narrative structure, genre, or style) as a path to understanding their intended meanings
-- Basic understanding of major interpretative frameworks by which film narratives can be analyzed and ability to apply one or more of these frameworks to the analysis of specific film anrratives
-- Understanding of methodological and stylistic differences between forms of writing about film, including movie reviews, critical essays, theoretical essays, fan discourse
-- Ability to deploy the above analytical skills in critical essays that analyze the meaning of films as cultural texts
+-   Ability to analyze technical/formal components of film narratives (shot composition, cinematography, editing, use of color, sound, narrative structure, genre, or style) as a path to understanding their intended meanings
+-   Basic understanding of major interpretative frameworks by which film narratives can be analyzed and ability to apply one or more of these frameworks to the analysis of specific film anrratives
+-   Understanding of methodological and stylistic differences between forms of writing about film, including movie reviews, critical essays, theoretical essays, fan discourse
+-   Ability to deploy the above analytical skills in critical essays that analyze the meaning of films as cultural texts
 
-----------
+---
 
 ## Reading Assignments
 
@@ -55,20 +58,20 @@ Michael Ryan and Melissa Lenos, _An Introduction to Film Analysis: Technique and
 
 This text is on order from the KSC Bookstore, or can also be ordered online either as a paperback or e-book.
 
-Also recommended: 
-Timothy Corrigan, _A Short Guide to Writing About Film_. Seventh edition. New York: Longman, 2010.  
+Also recommended: Timothy Corrigan, _A Short Guide to Writing About Film_. Seventh edition. New York: Longman, 2010.
 
-***  
+---
+
 ## Screening Assignments
 
-1. There is a weekly viewing  assignment, which is based on the second reading assignment for the week. In some cases films will be available for streaming via Canvas; if not, they will be available at the library on DVD.
+1.  There is a weekly viewing assignment, which is based on the second reading assignment for the week. In some cases films will be available for streaming via Canvas; if not, they will be available at the library on DVD.
 
-*NB: You are  expected to have watched the film listed for a given week **before** the class in question.* 
+_NB: You are expected to have watched the film listed for a given week **before** the class in question._
 
 _Apocalypse Now_  
 _Arrival_  
 _The Godfather_  
-_Gold Diggers of 1933_    
+_Gold Diggers of 1933_  
 _High and Low_  
 _In the Mood for Love_  
 _Mildred Pierce_  
@@ -76,198 +79,258 @@ _The Searchers_
 _The Shining_  
 _The Silence of the Lambs_  
 _Vagabond_  
-_Working Girl_  
+_Working Girl_
 
-2. In addition to the assigned film for the week, when you are presenting either on one of the Part One or Part Three chapters of the textbook, you will be expected to watch the film selected from the "Student Assignment" section at the end of each chapter.
+2.  In addition to the assigned film for the week, when you are presenting either on one of the Part One or Part Three chapters of the textbook, you will be expected to watch the film selected from the “Student Assignment” section at the end of each chapter.
+    
+3.  For the **Close Viewing** paper (see Assignments), you will select a film **other than** the main assigned film for the week from as the focus of your paper, and present one example clip from it during the Close Viewing class to which you are assigned.
+    
 
-3. For the **Close Viewing** paper (see Assignments), you will select a film **other than** the main assigned film for the week from as the focus of your paper, and present one example clip from it during the Close Viewing class to which you are assigned. 
-
-***
+---
 
 ## Class format
-Begininng in Week 2, each class session will be divided into two halves, with a short break between each. In the first half, we'll discuss a chapter from Part One of the course textbook (**Techniques & Meaning**); in the second half, we'll discuss a chapter from Part Three (**Critical Analysis**). 
 
-Each week beginning in week 2, a group of three students will be assigned to host a 30-minute discussion of the reading assignment in the first half of class (i.e., there will be one group in the first half and a different group in the second half). Group assignments are made randomly. 
+Beginning in Week 2, each class session will be divided into two halves, with a short break between each. In the first half, we’ll discuss a chapter from Part One of the course textbook (**Techniques & Meaning**); in the second half, we’ll discuss a chapter from Part Three (**Critical Analysis**).
+
+Each week beginning in week 2, a group of three students will be assigned to host a 30-minute discussion of the reading assignment in the first half of class (i.e., there will be one group in the first half and a different group in the second half). Group assignments are made randomly.
 
 Every third week, the first section of class will focus on one of the five case study films from chapters 9-13 of the textbook (**Close Viewings**). The second half of class will be a panel consisting of 3 presentations (for details, see Assignments).
 
-***  
+---
 
 ## Assignments
 
 **Agenda** (20%)  
-5 posts on Canvas discussion forum: a short paragraph with notes and/or questions on the reading/viewing assignments for the week. *NB: not required in any week when you are assigned to any of the other assignments below.*  
+5 posts on Canvas discussion forum: a short paragraph with notes and/or questions on the reading/viewing assignments for the week. _NB: not required in any week when you are assigned to any of the other assignments below._
 
 **Techniques & Meanings** (20%)  
 Choose one of the Student Assignments at the end of the chapter for the week, or an example of your own. Obtain a copy of the clip in the assignment and write an analysis of 500 words in response to the assignment prompt. Screen the clip in class with your discussion of it. 3 students weekly.
 
 **Critical Analysis** (20%)  
-Choose one of the Student Assignments at the end of the chapter for the week, or an example of your own. Obtain a copy of the clip in the assignment and screen it in class with your discussion of it. 3 students weekly.    
+Choose one of the Student Assignments at the end of the chapter for the week, or an example of your own. Obtain a copy of the clip in the assignment and write an analysis of 500 words in response to the assignment prompt. Screen the clip in class with your discussion of it. 3 students weekly.
 
 **Close Viewings Paper** (20%)  
-Presentation of Close Viewing paper (4-5 pages / 1,000-1,250 words) on an approved film.  
+Presentation of Close Viewing paper (4-5 pages / 1,000-1,250 words) on an approved film.
 
 **Comparative Analysis Paper** (20%)  
-Comparative analysis of a  theme and/or stylistic device in 1-3 films from the standpoint of one of the analytical frameworks covered in the course.  
-Deadline: Tuesday 13 December.  
+Comparative analysis of a theme and/or stylistic device in 1-3 films from the standpoint of one of the analytical frameworks covered in the course.  
+Deadline: Tuesday 13 December.
 
-***
+---
 
 ## Online Resources
 
 [Criterion](https://www.criterion.com/)  
 [Justwatch](https://justwatch.io/)  
-[Kanopy](https://keenenh.gov/keene-public-library/kanopy-streaming-video) (Keene Public Library; if you don't have one already, please [apply for card](https://keenenh.gov/keene-public-library/your-library-card))  
+[Kanopy](https://keenenh.gov/keene-public-library/kanopy-streaming-video) (Keene Public Library; if you don’t have one already, please [apply for card](https://keenenh.gov/keene-public-library/your-library-card))  
 [Metrograph](https://metrograph.com/)  
 [Mubi](https://mubi.com/)  
 [Spamflix](https://spamflix.com/about.do)  
-[Movie Database](https://www.themoviedb.org/?language=en-US)  
+[Movie Database](https://www.themoviedb.org/?language=en-US)
 
-***
+---
 
 ## Schedule of classes
 
 _Week 1 (Tues 08/30)_
 
 Introduction: Opening Sequence
+
 Read: Ryan and Lenos, _An Introduction to Film Analysis_, Introduction
 
-***  
+---
 
 _Week 2 (Tues 09/06)_
 
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, chs. 1, 14
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, chs. 1, 14
+
 Watch: _Gold Diggers of 1933_
 
-***  
+---
 
 _Week 3 (Tues 09/13)_
 
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 2, 15
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 2, 15
+
 Watch: _Silence of the Lambs_
 
-***  
+---
 
 _Week 4 (Tues 09/20)_
 
-**Close Viewings I**: _High and Low_  
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 9   
-Watch: _High and Low_
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 3, 16
 
-**CV Panel I**  
+Watch: _Working Girl_
 
-***  
+Presentation groups:
+
+**Techniques & Methods** 1
+
+**Critical Analysis** 1
+
+---
 
 _Week 5 (Tues 09/27)_
 
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 3, 16
-Watch: _Working Girl_  
+ Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 4, 17
 
-***  
+Watch: _Mildred Pierce_
+
+Presentation groups:
+
+**Techniques & Methods** 2
+
+**Critical Analysis** 2
+
+---
 
 _Week 6 (Tues 10/04)_
 
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 4, 17
-Watch: _Mildred Pierce_  
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 5, 18
 
-***  
+Watch: _Get Out_
+
+Presentation groups:
+
+**Techniques & Methods** 3
+
+**Critical Analysis** 3
+
+---
 
 _Week 7 (Tues 10/11)_
 
-**Close Viewings II**: _The Shining_  
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 10  
-Watch: _The Shining_
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 6, 19
 
-**CV Panel II**  
+Watch: _Apocalypse Now_
 
-***  
+Presentation groups:
+
+**Techniques & Methods** 4
+
+**Critical Analysis** 4
+
+---
 
 _Week 8 (Tues 10/18)_
 
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 5, 18
-Watch: _Get Out_  
+ Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 7, 20
 
-***  
+Watch: _The Godfather_
+
+Presentation groups:
+
+**Techniques & Methods** 5
+
+**Critical Analysis** 5
+
+---
 
 _Week 9 (Tues 10/25)_
 
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 6, 19
-Watch: _Apocalypse Now_  
+ Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 8, 21
 
-***  
+Watch: _The Searchers_
+
+Presentation groups:
+
+**Techniques & Methods** 6
+
+**Critical Analysis** 6
+
+---
 
 _Week 10 (Tues 11/01)_
 
-**Close Viewings III**: _In the Mood for Love_  
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 11  
-Watch: _In the Mood for Love_
+**Close Viewings 1**: _High and Low_
 
-**CV Panel III**  
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 9
 
-***  
+Watch: _High and Low_
+
+**CV Panel 1**
+
+---
 
 _Week 11 (Tues 11/08)_
 
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 7, 20
-Watch: _The Godfather_  
+**Close Viewings 2**: _The Shining_
 
-***  
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 10
+
+Watch: _The Shining_
+
+**CV Panel 2**
+
+---
 
 _Week 12 (Tues 11/15)_
 
-**Close Viewings IV**: _Vagabond_  
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 12  
-Watch: _Vagabond_  
+**Close Viewings 3**: _In the Mood for Love_
 
-***  
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 11
+
+Watch: _In the Mood for Love_
+
+**CV Panel 3**
+
+---
 
 _Week 13 (Tues 11/22)_
 
-Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 8, 21
-Watch: _The Searchers_  
+**Close Viewings 4**: _Vagabond_  
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 12
 
-***  
+Watch: _Vagabond_
+
+**CV Panel 4**
+
+---
 
 _Week 14 (Tues 11/29)_
 
-**Close Viewings V**: _Arrival_  
-Read: Ryan and Lenos, _An Introduction to Film Analysis_,  ch. 13    
+**Close Viewings 5**: _Arrival_
+
+Read: Ryan and Lenos, _An Introduction to Film Analysis_, ch. 13
+
 Watch: _Arrival_
 
-**CV Panel V**  
+**CV Panel 5**
 
-***  
+---
 
 _Week 15 (Tues 12/06)_
 
 Presentation of final projects
 
 Reading Day (Mon 12/12)
+
 Exam period (Tues-Fri 12/13-16)
 
-***
+---
 
 ## Policies & Protocol
 
-**Attendance**
-Since this class meets only weekly, attendance is particularly important. Students are allowed one absence per semester. Two absences will lower your final grade half a letter grade. Three absences will lower your grade a whole letter grade. Any more than **three absences**, regardless of the reason, and students will have to withdraw from the course (in accordance with Keene State College student handbook). Come and talk to me if you have any problem in attending the class.
+**Attendance** Since this class meets only weekly, attendance is particularly important. Students are allowed one absence per semester. Two absences will lower your final grade half a letter grade. Three absences will lower your grade a whole letter grade. Any more than **three absences**, regardless of the reason, and students will have to withdraw from the course (in accordance with Keene State College student handbook). Come and talk to me if you have any problem in attending the class.
 
 Keene State policy: A student who misses more than 3 weeks in the first 10 weeks of the semester (regardless of the reason, including excused absences and emergencies) must withdraw from the course. The student must follow the regular withdrawal procedure. The complete KSC attendance policy can be viewed at [http://www.keene.edu/registrar/policy/policy.cfm#6](http://www.keene.edu/registrar/policy/policy.cfm#6)
 
-----------
+---
 
 ## Readings & assignments
+
 Readings assigned for each week should be completed **prior to** the class meeting. Assignments are due at the beginning of the class unless stated otherwise. **Please do not email submissions.**
 
-----------
+---
 
 ## Discussion & participation
-Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared—both intellectually and physically. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure your full participation and engagement in class, the use of laptops and/or mobile devices during lectures, discussion, and screenings is not permitted.  
 
-----------
+Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared—both intellectually and physically. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure your full participation and engagement in class, the use of laptops and/or mobile devices during lectures, discussion, and screenings is not permitted.
+
+---
 
 ## Academic honesty
+
 We understand and agree that we are participating in higher education. We respect this process and will act as mature and responsible individuals in it. To ensure that, all students are expected to hand in original written work. Using other people’s words without proper attribution constitutes plagiarism. Plagiarism and any other forms of cheating will result in an F for the assignment and may include further College sanctions. In this class, every student must be aware of and adhere to the college’s policy on academic honesty. Detailed procedures and processes pertaining to the Policy on Academic Honesty can be viewed at [http://www.keene.edu/policy/academichonesty.cfm (Links to an external site.)Links to an external site.](http://www.keene.edu/policy/academichonesty.cfm)
 
-***
-
+---

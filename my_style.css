@@ -33,3 +33,18 @@ h3 {
   font-size: 1.8em;
   font-family: "Sanchez", sans-serif;
 }
+
+a:link {
+    text-decoration: underline;
+    color: #294478;
+}
+
+a:visited {
+    text-decoration: underline;
+    color: #294478;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #294478;
+}

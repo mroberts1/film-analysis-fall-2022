@@ -18,7 +18,7 @@ body {
   
 }
 h1 {
-  font-size: 2.8em;
+  font-size: 2.4em;
   font-family: "Sanchez", sans-serif;
 }
 
@@ -36,15 +36,15 @@ h3 {
 
 a:link {
     text-decoration: underline;
-    color: #294478;
+    color: #7B1818;
 }
 
 a:visited {
     text-decoration: underline;
-    color: #294478;
+    color: ##7B1818;
 }
 
 a:hover {
     text-decoration: underline;
-    color: #294478;
+    color: ##7B1818;
 }

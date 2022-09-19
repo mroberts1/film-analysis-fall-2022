@@ -8,10 +8,10 @@ output:
   tufte::tufte_book:
     citation_package: natbib
     latex_engine: lualatex
+  word_document: null
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: lualatex
-  word_document: null
   pdf_document: default
 mainfont: Inter
 link-citations: yes

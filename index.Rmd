@@ -17,7 +17,7 @@ mainfont: Inter
 link-citations: yes
 ---
 # IHFILM-260-01 Introduction to Film Analysis
-![](img/14-1.jpg){width=70%}    
+![](img/14-1.jpg){width=75%}    
 Fall Semester 2022  
 4 credits  
 Tuesday 10:00 a.m.-1:30 p.m.  
@@ -45,10 +45,10 @@ This course is designed to equip students with the tools necessary to become cri
 
 After completing the course, students should have acquired the following skills:
 
--   Ability to analyze technical/formal components of film narratives (shot composition, cinematography, editing, use of color, sound, narrative structure, genre, or style) as a path to understanding their intended meanings
--   Basic understanding of major interpretative frameworks by which film narratives can be analyzed and ability to apply one or more of these frameworks to the analysis of specific film anrratives
--   Understanding of methodological and stylistic differences between forms of writing about film, including movie reviews, critical essays, theoretical essays, fan discourse
--   Ability to deploy the above analytical skills in critical essays that analyze the meaning of films as cultural texts
+- Ability to analyze technical/formal components of film narratives (shot composition, cinematography, editing, use of color, sound, narrative structure, genre, or style) as a path to understanding their intended meanings
+- Basic understanding of major interpretative frameworks by which film narratives can be analyzed and ability to apply one or more of these frameworks to the analysis of specific film anrratives
+- Understanding of methodological and stylistic differences between forms of writing about film, including movie reviews, critical essays, theoretical essays, fan discourse
+- Ability to deploy the above analytical skills in critical essays that analyze the meaning of films as cultural texts
 
 ---
 
@@ -62,14 +62,15 @@ Also recommended: Timothy Corrigan, _A Short Guide to Writing About Film_. Seve
 
 ---
 
-## Screening Assignments
+## Screening Assignments  
 
-1.  There is a weekly viewing assignment, which is based on the second reading assignment for the week. In some cases films will be available for streaming via Canvas; if not, they will be available at the library on DVD.
+1. There is a weekly viewing assignment, which is based on the second reading assignment for the week. In some cases films will be available for streaming via Canvas; if not, they will be available at the library on DVD.
 
-_NB: You are expected to have watched the film listed for a given week **before** the class in question._
+NB: You are expected to have watched the film listed for a given week _before_ the class in question.
 
+<blockquote>
 _Apocalypse Now_  
-_Arrival_  
+_Arrival_ 
 _The Godfather_  
 _Gold Diggers of 1933_  
 _High and Low_  
@@ -79,18 +80,18 @@ _The Searchers_
 _The Shining_  
 _The Silence of the Lambs_  
 _Vagabond_  
-_Working Girl_
+_Working Girl_  
+</blockquote>
 
-2.  In addition to the assigned film for the week, when you are presenting either on one of the Part One or Part Three chapters of the textbook, you will be expected to watch the film selected from the “Student Assignment” section at the end of each chapter.
+2. In addition to the assigned film for the week, when you are presenting either on one of the Part One or Part Three chapters of the textbook, you will be expected to watch the film selected from the “Student Assignment” section at the end of each chapter.
     
-3.  For the **Close Viewing** paper (see Assignments), you will select a film **other than** the main assigned film for the week from as the focus of your paper, and present one example clip from it during the Close Viewing class to which you are assigned.
-    
+3. For the **Close Viewing** paper (see Assignments), you will select a film **other than** the main assigned film for the week from as the focus of your paper, and present one example clip from it during the Close Viewing class to which you are assigned.  
 
 ---
 
 ## Class format
 
-Beginning in Week 2, each class session will be divided into two halves, with a short break between each. In the first half, we’ll discuss a chapter from Part One of the course textbook (**Techniques & Meaning**); in the second half, we’ll discuss a chapter from Part Three (**Critical Analysis**).
+Beginning in Week 2, each class session will be divided into two halves, with a short break between each. In the first half, we’ll discuss a chapter from Part One of the course textbook (**Technique & Meaning**); in the second half, we’ll discuss a chapter from Part Three (**Critical Analysis**).
 
 Each week beginning in week 2, a group of three students will be assigned to host a 30-minute discussion of the reading assignment in the first half of class (i.e., there will be one group in the first half and a different group in the second half). Group assignments are made randomly.
 
@@ -103,7 +104,7 @@ Every third week, the first section of class will focus on one of the five case 
 **Agenda** (20%)  
 5 posts on Canvas discussion forum: a short paragraph with notes and/or questions on the reading/viewing assignments for the week. _NB: not required in any week when you are assigned to any of the other assignments below._
 
-**Techniques & Meanings** (20%)  
+**Technique & Meaning** (20%)  
 Choose one of the Student Assignments at the end of the chapter for the week, or an example of your own. Obtain a copy of the clip in the assignment and write an analysis of 500 words in response to the assignment prompt. Screen the clip in class with your discussion of it. 3 students weekly.
 
 **Critical Analysis** (20%)  
@@ -164,7 +165,7 @@ Watch: _Working Girl_
 
 Presentation groups:
 
-**Techniques & Methods** 1
+**Technique & Meaning** 1
 
 **Critical Analysis** 1
 
@@ -178,7 +179,7 @@ Watch: _Mildred Pierce_
 
 Presentation groups:
 
-**Techniques & Methods** 2
+**Technique & Meaning** 2
 
 **Critical Analysis** 2
 
@@ -192,7 +193,7 @@ Watch: _Get Out_
 
 Presentation groups:
 
-**Techniques & Methods** 3
+**Technique & Meaning** 3
 
 **Critical Analysis** 3
 
@@ -206,7 +207,7 @@ Watch: _Apocalypse Now_
 
 Presentation groups:
 
-**Techniques & Methods** 4
+**Technique & Meaning** 4
 
 **Critical Analysis** 4
 
@@ -220,7 +221,7 @@ Watch: _The Godfather_
 
 Presentation groups:
 
-**Techniques & Methods** 5
+**Technique & Meaning** 5
 
 **Critical Analysis** 5
 
@@ -234,7 +235,7 @@ Watch: _The Searchers_
 
 Presentation groups:
 
-**Techniques & Methods** 6
+**Technique & Meaning** 6
 
 **Critical Analysis** 6
 

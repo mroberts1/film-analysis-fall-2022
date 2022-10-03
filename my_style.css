@@ -2,10 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
 @import url("https://cdn.jsdelivr.net/npm/charter-webfont@4/charter.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap');
 
 @charset "UTF-8";
 
-html { font-size: 14px; }
+html { font-size: 16px; }
 
 h1,h2,h3 {
   font-style: normal;
@@ -13,7 +14,7 @@ h1,h2,h3 {
 }
 
 body {
-  font-family: "Alegreya", "Charter", serif;
+  font-family: "Spectral", "Alegreya", "Charter", serif;
   font-size: 1em;
   
 }

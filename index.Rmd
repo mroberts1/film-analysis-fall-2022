@@ -13,7 +13,6 @@ output:
     citation_package: natbib
     latex_engine: lualatex
   pdf_document: default
-mainfont: Inter
 link-citations: yes
 ---
 # IHFILM-260-01 Introduction to Film Analysis

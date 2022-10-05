@@ -45,24 +45,18 @@ hr {
     padding: 0;
 }
 a:link {
-    text-decoration: underline;
     text-decoration-color: #d74e45;
     text-underline-offset: 3px;
-    color: #000000;
 }
 
 a:visited {
-    text-decoration: underline;
     text-decoration-color: #d74e45;
-    color: #000000;
 }
 
 a:hover {
-    text-decoration: underline;
     color: #d74e45;
 }
 
 a:active {
-    text-decoration: underline;
     color: #d74e45;
 }

@@ -1,19 +1,11 @@
 ---
-title: ''
-author: "Martin Roberts"
-date: "`r Sys.Date()`"
-output:
-  tufte::tufte_html:
-    css: my_style.css
-  tufte::tufte_book:
-    citation_package: natbib
-    latex_engine: lualatex
-  word_document: null
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: lualatex
-  pdf_document: default
-link-citations: yes
+title: ""
+author: ""
+date: ""
+output: 
+  cleanrmd::html_document_clean:
+    theme: NULL  # see cleanrmd::cleanrmd_themes()
+                    # or set to NULL for dynamic theme picker (requires internet)
 ---
 # IHFILM-260-01 Introduction to Film Analysis
 ![](img/14-1.jpg){width=75%}    

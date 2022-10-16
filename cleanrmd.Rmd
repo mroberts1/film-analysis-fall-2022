@@ -4,22 +4,9 @@ author: ""
 date: ""
 output: 
   cleanrmd::html_document_clean:
-    theme: sakura  # see cleanrmd::cleanrmd_themes()
+    theme: NULL  # see cleanrmd::cleanrmd_themes()
                     # or set to NULL for dynamic theme picker (requires internet)
 ---
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
-```{css, echo = FALSE}
-body {
-  margin: 0 auto;
-  max-width: 750px;
-  padding: 2rem;
-}
-```
-
 # IHFILM-260-01 Introduction to Film Analysis
 ![](img/14-1.jpg){width=75%}    
 Fall Semester 2022  

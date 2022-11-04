@@ -15,6 +15,19 @@ output:
   pdf_document: default
 link-citations: yes
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{css, echo = FALSE}
+body {
+  margin: 0 auto;
+  max-width: 750px;
+  padding: 2rem;
+}
+```
 # IHFILM-260-01 Introduction to Film Analysis
 ![](img/14-1.jpg){width=75%}    
 Fall Semester 2022  
